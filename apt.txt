@@ -1,0 +1,8 @@
+libglx-mesa0:amd64
+libglx0:amd64
+libgl1:amd64
+libglu1-mesa:amd64
+libgl1-mesa-glx:amd64
+libxcursor-dev:amd64
+libxft2:amd64
+libxinerama1:amd64
