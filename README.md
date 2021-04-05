@@ -1,11 +1,11 @@
 # Software profesional en Acústica 20-21: Máster en Matemática Industrial [M2i]
 
-Estos ficheiros Jupyper correspóndense cos guións de prácticas da materia
+Estos ficheiros Jupyper correspóndense cos guións das prácticas titorizadas da materia
 **Software profesional en Acústica** impartido por Andrés Prieto e Luis Hervella para o
-Grao en Ciencia e Enxeñaría de datos na Facultade de Informática da Universidade
-da Coruña. Este é o primeiro curso en cálculo para o estudantado deste grao.
+Mestrado en Matemática Industrial na Universidade
+da Coruña. 
 
-Os ficheiros Jupyter póden ser usados, compartidos e modificados de forma gratuita. 
+Os cadernos Jupyter póden ser usados, compartidos e modificados de forma gratuita. 
 Véxase a licencia e os dereitos de autor descritos máis abaixo.
 
 ## Visualización e execución
@@ -19,8 +19,8 @@ o proxecto completo de Github para usar estes ficheiros nun entorno Jupyter en l
 
 ## Comenzando
 
-Cada guión de prácticas (dispoñible nun Jupyter Notebook na carpeta **practicas**) analiza un tema, con un pequeno conxunto de exercicios
-que deberán ser realizados ao rematar a sesión práctica.
+Cada caderno Jupyter Notebook analiza un tema, con un pequeno conxunto de exercicios
+que deberán ser realizados polo alumnado ao rematar a sesión práctica.
 
 ## Licencia e copyright
 
