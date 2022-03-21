@@ -1,4 +1,4 @@
-# Software profesional en Acústica 20-21: Máster en Matemática Industrial [M2i]
+# Software profesional en Acústica: Máster en Matemática Industrial [M2i]
 
 Estos ficheiros Jupyper correspóndense cos guións das prácticas titorizadas da materia
 **Software profesional en Acústica** impartido por Andrés Prieto e Luis Hervella para o
