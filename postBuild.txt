@@ -1,2 +1,3 @@
 pip install --upgrade gmsh
 pip install pygmsh
+wget "https://fem-on-colab.github.io/releases/fenics-install-release-real.sh" -O "/tmp/fenics-install.sh" && bash "/tmp/fenics-install.sh"
