@@ -5,4 +5,4 @@ pip install --upgrade gmsh
 pip install pygmsh
 
 # Install FEniCS 2019 using FEM on Colab codes
-wget "https://fem-on-colab.github.io/releases/fenics-install-release-real.sh" -O "/tmp/fenics-install.sh" && sudo bash "/tmp/fenics-install.sh"
+wget "https://fem-on-colab.github.io/releases/fenics-install-release-real.sh" -O "/tmp/fenics-install.sh" && bash "/tmp/fenics-install.sh"
