@@ -1,14 +1,12 @@
 channels:
 - conda-forge
 dependencies:
-- python=3.8
+- python=
 # Jupyter
-- jupyterlab=2
+- jupyterlab
 # Python Kernel
-- matplotlib=3.1
-- numpy=1.17
-- scipy=1.4
+- matplotlib
+- numpy
+- scipy
 - pip
-- fenics
 - h5py
-- mshr=2019.1.0=py38h255090a_2
