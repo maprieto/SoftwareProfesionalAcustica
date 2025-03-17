@@ -12,7 +12,7 @@ Consulte la licencia y los derechos de autor que se describen a continuación.
 Las copias de estos archivos Jupyter están alojadas en el servicio en la nube proporcionado por
 Carpeta, en la carpeta **notebooks**, accesible desde el siguiente enlace:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/SoftwareProfesionalAcustica/HEAD)
-También se puede ejecutar utilizando el servicio en la nube de Google Colabs: [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maprieto/SoftwareProfesionalAcustica/]
+También se puede ejecutar utilizando el servicio en la nube de Google Colabs: [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maprieto/SoftwareProfesionalAcustica/)
 
 Para una mejor experiencia, se recomienda descargarlos o clonarlos (usando la opción 'clonar')
 el proyecto completo de Github para utilizar estos archivos en un entorno Jupyter local.
