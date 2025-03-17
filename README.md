@@ -1,39 +1,39 @@
-# Software profesional en Acústica: Máster en Matemática Industrial [M2i]
+# Software Profesional en Acústica: Máster en Matemática Industrial [M2i]
 
-Estos ficheiros Jupyper correspóndense cos guións das prácticas titorizadas da materia
-**Software profesional en Acústica** impartido por Andrés Prieto e Luis Hervella para o
-Mestrado en Matemática Industrial na Universidade
-da Coruña. 
+Estos archivos Jupyter corresponden a los scripts de las prácticas tutorizadas de la asignatura.
+**Software Profesional en Acústica** impartido en el
+Máster en Matemática Industrial de la Universidade da Coruña
 
-Os cadernos Jupyter póden ser usados, compartidos e modificados de forma gratuita. 
-Véxase a licencia e os dereitos de autor descritos máis abaixo.
+Los cuadernos Jupyter se pueden usar, compartir y modificar de forma gratuita.
+Consulte la licencia y los derechos de autor que se describen a continuación.
 
-## Visualización e execución
+## Ver y ejecutar
 
-As copias destes ficheiros Jupyter están aloxadas no servizo da nube proporcionado por
-Binder, na carpeta **practicas**, accesibles dende a seguinte ligazón:
+Las copias de estos archivos Jupyter están alojadas en el servicio en la nube proporcionado por
+Carpeta, en la carpeta **notebooks**, accesible desde el siguiente enlace:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/SoftwareProfesionalAcustica/HEAD)
+También se puede ejecutar utilizando el servicio en la nube de Google Colabs: [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maprieto/SoftwareProfesionalAcustica/]
 
-Para unha mellor experiencia recomendase ou ben descargalos ou clonar (usando a opción 'clone')
-o proxecto completo de Github para usar estes ficheiros nun entorno Jupyter en local.
+Para una mejor experiencia, se recomienda descargarlos o clonarlos (usando la opción 'clonar')
+el proyecto completo de Github para utilizar estos archivos en un entorno Jupyter local.
 
-## Comenzando
+## Empezando
 
-Cada caderno Jupyter Notebook analiza un tema, con un pequeno conxunto de exercicios
-que deberán ser realizados polo alumnado ao rematar a sesión práctica.
+Cada Jupyter Notebook explora un tema, con un pequeño conjunto de ejercicios
+que deberá ser realizada por el alumnado al finalizar la sesión práctica.
 
-## Licencia e copyright
+## Licencia y derechos de autor
 
-Todo o material é copyright de Luis Hervella (<luis.hervella@udc.es>), Andrés Prieto (<andres.prieto@udc.es>)
+Todo el material es propiedad intelectual de Luis Hervella (<luis.hervella@udc.es>), Andrés Prieto (<andres.prieto@udc.es>)
 
-Todo o texto está dispoñible baixo a licencia pública internacional de Creative Commons
-Attribution-ShareAlike 4.0
+Todo el texto está disponible bajo la Licencia Pública Internacional Creative Commons.
+Atribución-CompartirIgual 4.0
 (<https://creativecommons.org/licenses/by-sa/4.0/legalcode>).
 
-Todos os códigos de ordenador están publicados baixo a licencia MIT
+Todo el código informático se publica bajo la licencia MIT.
 
-A licencia MIT
+La licencia del MIT
 Copyright (c) 2021 Luis Hervella, Andrés Prieto
 
-De aquí en diante dáselle permiso, sen custe ningún, a que calquera persoa que obteña unha copia deste software e dos ficheiros de documentación asociados (o "Software"), de empregalos en Software sen restricións, mesmo sen que exista unha limitación dos dereitos de para usar, copiar, modificar, fusionar, publicar, distribuír, sublicenciar e/ou vender as copias do Software; e permíteselle as persoas que obtiveron o Software que o fornezan do mesmo xeito, estando suxeitos ás seguintes condicións:
-O SOFTWARE OFRÉCESE "TAL É COMO ESTÁ", SEN QUE HAXA GARANTÍAS DE NINGÚN TIPO, EXPLÍCITAS OU IMPLÍCITAS, INCLUÍDAS MAIS SEN LIMITALAS ÁS GARANTÍAS COMERCIAIS, DA IDONEIDADE PARA UN PROPÓSITO PARTICULAR E QUE NON SUPOÑA INFRACCIÓNS. EN NINGÚN CASO OS AUTORES OU TITULARES DOS DEREITOS DE AUTOR SE FARÁN RESPONSABLES DE NINGUNHA RECLAMACIÓN, DOS DANOS OU DOUTRA RESPONSABILIDADE, BEN SEXA COMO CONDICIÓN CONTRACTUAL OU DE NEGLIXENCIA OU OUTRA CONDICIÓN, DERIVADA DE, CAUSA DE OU LIGADA AO SOFTWARE OU AO SEU USO OU RELACIÓN CON OUTROS
+Por la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software") para usarlos en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software; y las personas que hayan obtenido el Software podrán proporcionarlo de la misma manera, sujeto a las siguientes condiciones:
+EL SOFTWARE SE PROPORCIONA "TAL CUAL" SIN GARANTÍAS DE NINGÚN TIPO, EXPRESAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, NEGLIGENCIA O DE OTRO MODO, QUE SURJA DE, SEA CAUSADA POR O ESTÉ RELACIONADA CON EL SOFTWARE O SU USO O RELACIÓN CON OTROS.
