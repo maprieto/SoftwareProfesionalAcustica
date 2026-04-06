@@ -24,7 +24,7 @@ que deberá ser realizada por el alumnado al finalizar la sesión práctica.
 
 ## Licencia y derechos de autor
 
-Todo el material es propiedad intelectual de Luis Hervella (<luis.hervella@udc.es>), Andrés Prieto (<andres.prieto@udc.es>)
+Todo el material es propiedad intelectual de Andrés Prieto (<andres.prieto@udc.es>)
 
 Todo el texto está disponible bajo la Licencia Pública Internacional Creative Commons.
 Atribución-CompartirIgual 4.0
