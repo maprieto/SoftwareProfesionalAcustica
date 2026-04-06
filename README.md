@@ -2,7 +2,7 @@
 
 Estos archivos Jupyter corresponden a los scripts de las prácticas tutorizadas de la asignatura.
 **Software Profesional en Acústica** impartido en el
-Máster en Matemática Industrial de la Universidade da Coruña
+Máster en Matemática Industrial de la Universidade da Coruña en el curso 2025-2026
 
 Los cuadernos Jupyter se pueden usar, compartir y modificar de forma gratuita.
 Consulte la licencia y los derechos de autor que se describen a continuación.
@@ -33,7 +33,7 @@ Atribución-CompartirIgual 4.0
 Todo el código informático se publica bajo la licencia MIT.
 
 La licencia del MIT
-Copyright (c) 2021 Luis Hervella, Andrés Prieto
+Copyright (c) 2026 Andrés Prieto
 
 Por la presente se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software") para usarlos en el Software sin restricción, incluidos, entre otros, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software; y las personas que hayan obtenido el Software podrán proporcionarlo de la misma manera, sujeto a las siguientes condiciones:
 EL SOFTWARE SE PROPORCIONA "TAL CUAL" SIN GARANTÍAS DE NINGÚN TIPO, EXPRESAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, NEGLIGENCIA O DE OTRO MODO, QUE SURJA DE, SEA CAUSADA POR O ESTÉ RELACIONADA CON EL SOFTWARE O SU USO O RELACIÓN CON OTROS.
