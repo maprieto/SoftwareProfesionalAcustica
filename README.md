@@ -1,4 +1,4 @@
-# Course: Software in Acoustics (Master in Industrial Mathematics [M2i])
+# Course: Software in Acoustics, [Master in Industrial Mathematics (M2i)](https://m2i.es/en/)
 These Jupyter files correspond to the scripts for the tutored practice sessions of the course
 **Professional Software in Acoustics**, taught in the
 Master's in Industrial Mathematics at the University of A Coruña in the 2025–2026 academic year.
@@ -8,13 +8,10 @@ Please refer to the license and copyright information described below.
 ## Viewing and Running
 Copies of these Jupyter files are hosted on the cloud service provided by
 Binder, in the **notebooks** folder, accessible via the following link:
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/SoftwareProfesionalAcustica/HEAD)
-
 They can also be run using the Google Colab cloud service: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maprieto/SoftwareProfesionalAcustica/)
 
-For the best experience, it is recommended to download or clone (using the 'clone' option)
-the full project from GitHub in order to use these files in a local Jupyter environment.
+For the best experience, it is recommended to download or clone (using the 'clone' option) the full project from GitHub in order to use these files in a local Jupyter environment. Both FEniCS 2019 and NGSolve are installed on the fly for each Jupyter Notebook.
 
 ## Getting Started
 Each Jupyter Notebook explores a topic, with a small set of exercises
@@ -34,7 +31,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-# Software Profesional en Acústica: Máster en Matemática Industrial [M2i]
+# Curso: Software Profesional en Acústica, [Máster en Matemática Industrial (M2i)](https://m2i.es)
 
 Estos archivos Jupyter corresponden a los scripts de las prácticas tutorizadas de la asignatura.
 **Software Profesional en Acústica** impartido en el
@@ -50,8 +47,7 @@ Carpeta, en la carpeta **notebooks**, accesible desde el siguiente enlace:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/SoftwareProfesionalAcustica/HEAD)
 También se puede ejecutar utilizando el servicio en la nube de Google Colabs: [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maprieto/SoftwareProfesionalAcustica/)
 
-Para una mejor experiencia, se recomienda descargarlos o clonarlos (usando la opción 'clonar')
-el proyecto completo de Github para utilizar estos archivos en un entorno Jupyter local.
+Para una mejor experiencia, se recomienda descargarlos o clonarlos (usando la opción 'clonar') el proyecto completo de Github para utilizar estos archivos en un entorno Jupyter local. Ambos paquetes FEniCS 2019 and NGSolve se instalan por defecto en cada Jupyter Notebook en la primera celda.
 
 ## Empezando
 
